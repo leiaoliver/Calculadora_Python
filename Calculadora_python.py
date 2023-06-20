@@ -39,4 +39,5 @@ elif operacao == 4:
 else:
     print("Operação inválida!")
 
-print(resultado)
+
+print("Resultado: ", resultado)
